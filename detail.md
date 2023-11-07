@@ -13,7 +13,7 @@ We are looking for a Vue.js developer to create a web application that consists 
 - Similarly, for a group size of 3:
     - Input: "testing" -> Output: "setnitg"
 
-### Screen 2: Image Tool
+### Screen 2: Image Brightness Adjuster
 - Implement an image tool that adjusts the brightness of a specific area within an uploaded image.
 - Users should be able to specify the coordinates (x, y) and dimensions (width, height) of the area to be adjusted.
 - For instance, adjusting the brightness of a 500x500 area starting from the coordinates (100, 100).
@@ -21,7 +21,7 @@ We are looking for a Vue.js developer to create a web application that consists 
 ![example.png](https://i.ibb.co/mcPWNsb/example.png)
 
 ### Screen 3: Data Retrieval and Processing
-- Fetch and process data from the specified endpoint: `https://pokeapi.co/api/v2/pokemon/`
+- Retrieve and process the data from the endpoint specified as `https://pokeapi.co/api/v2/pokemon/`, and carry out the necessary tasks accordingly.
 
 ## Submission Guidelines
 - The web application must be fully functional within a Docker container.
