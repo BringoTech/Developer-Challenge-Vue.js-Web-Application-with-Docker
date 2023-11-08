@@ -21,7 +21,7 @@ We are looking for a Vue.js developer to create a web application that consists 
 ![example.png](https://i.ibb.co/mcPWNsb/example.png)
 
 ### Screen 3: Data Retrieval and Processing
-- Retrieve and process the data from the endpoint specified as `https://pokeapi.co/api/v2/pokemon/`, and carry out the necessary tasks accordingly.
+- Retrieve and display data from endpoint https://pokeapi.co/api/v2/pokemon/ with pagination, search, and filtering options.
 
 ## Submission Guidelines
 - The web application must be fully functional within a Docker container.
